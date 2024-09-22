@@ -26,13 +26,13 @@ header li {
 }
 
 body {
-    background-color: aquamarine;
+    background-color: rgb(143, 143, 141);
 }
 
-h2 {
-    color: red;
+time {
+    color: white;
 }
 
-h1 {
-    color: darkred;
+p {
+    color: black;
 }
